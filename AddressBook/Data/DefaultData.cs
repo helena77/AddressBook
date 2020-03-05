@@ -75,6 +75,34 @@ namespace AddressBook.Data
             new Country
             {
                 Name = "Argentina",
+                AdminAreaDisplayName = "Province",
+                AdminAreas = new List<string>
+                {
+                    "BA",
+                    "CA",
+                    "CB",
+                    "CC",
+                    "CH",
+                    "CN",
+                    "CT",
+                    "ER",
+                    "FM",
+                    "JY",
+                    "LP",
+                    "LR",
+                    "MN",
+                    "MZ",
+                    "NQ",
+                    "RN",
+                    "SA",
+                    "SC",
+                    "SE",
+                    "SF",
+                    "SJ",
+                    "SL",
+                    "TF",
+                    "TM"
+                }
             },
 
             new Country
